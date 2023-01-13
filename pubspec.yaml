@@ -7,7 +7,8 @@ environment:
   sdk: ">=2.14.0 <3.0.0"
 
 dependencies:
-  phone_number_metadata: ^5.0.4
+  phone_number_metadata:
+    git: https://github.com/hsul4n/dart_phone_metadata
   meta: ^1.7.0
   dart_countries: ^3.0.2
 
