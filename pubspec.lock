@@ -181,7 +181,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: dcd872c72368f729471c9aefd0caa04bdf6e4884
+      resolved-ref: bcfda73728d228496715507799eafa4553711976
       url: "https://github.com/hsul4n/dart_phone_metadata"
     source: git
     version: "5.0.4"

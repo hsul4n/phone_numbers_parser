@@ -9,6 +9,7 @@ environment:
 dependencies:
   phone_number_metadata:
     git: https://github.com/hsul4n/dart_phone_metadata
+
   meta: ^1.7.0
   dart_countries: ^3.0.2
 
