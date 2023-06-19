@@ -1,3 +1,7 @@
+## 7.0.1
+
+- Update dart sdk.
+
 ## 7.0.0
 This major introduces a more accurate parsing logic taking into account caller and destination country.
 
